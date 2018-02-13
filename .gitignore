@@ -1,0 +1,9 @@
+.settings/
+lib/
+target/
+tradingdb/
+.classpath
+.project
+debug.log
+derby.log
+
