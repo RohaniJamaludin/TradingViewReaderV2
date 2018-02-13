@@ -1,5 +1,4 @@
 .settings/
-lib/
 target/
 tradingdb/
 .classpath
